@@ -15,6 +15,7 @@
 		F28ECEB71C0CA0D50003F16F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F28ECEB51C0CA0D50003F16F /* LaunchScreen.storyboard */; };
 		F28ECEC21C0CA0D50003F16F /* HybridPracTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F28ECEC11C0CA0D50003F16F /* HybridPracTests.m */; };
 		F28ECECD1C0CA0D50003F16F /* HybridPracUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F28ECECC1C0CA0D50003F16F /* HybridPracUITests.m */; };
+		F28ECEDB1C0CA26B0003F16F /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = F28ECEDA1C0CA26B0003F16F /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F28ECEC81C0CA0D50003F16F /* HybridPracUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HybridPracUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F28ECECC1C0CA0D50003F16F /* HybridPracUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HybridPracUITests.m; sourceTree = "<group>"; };
 		F28ECECE1C0CA0D50003F16F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F28ECEDA1C0CA26B0003F16F /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				F28ECEB51C0CA0D50003F16F /* LaunchScreen.storyboard */,
 				F28ECEB81C0CA0D50003F16F /* Info.plist */,
 				F28ECEA71C0CA0D50003F16F /* Supporting Files */,
+				F28ECEDA1C0CA26B0003F16F /* index.html */,
 			);
 			path = HybridPrac;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F28ECEB71C0CA0D50003F16F /* LaunchScreen.storyboard in Resources */,
+				F28ECEDB1C0CA26B0003F16F /* index.html in Resources */,
 				F28ECEB41C0CA0D50003F16F /* Assets.xcassets in Resources */,
 				F28ECEB21C0CA0D50003F16F /* Main.storyboard in Resources */,
 			);
